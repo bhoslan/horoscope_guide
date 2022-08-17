@@ -1,6 +1,6 @@
 # horoscope_guide
 
-A new Flutter project.
+Udemy course example
 
 ## Getting Started
 
